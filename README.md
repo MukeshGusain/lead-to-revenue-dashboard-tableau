@@ -58,7 +58,9 @@ Google Ads generated the strongest ROAS among paid channels.
 
 Significant drop-off observed between Site Visits and Bookings.
 
+Screenshot
 
+![Dashboard Preview](screenshots/dashboard-overview.png)
 
 Tableau Public
 
